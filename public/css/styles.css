@@ -1,0 +1,135 @@
+.container {
+    padding: 1rem 1rem 1rem 1rem;
+}
+
+.navbar {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+}
+
+.navbar-nav li a:hover {
+    color: #4A3CA6 !important;
+}
+
+.nav-link {
+    color: #9896D9;
+}
+
+.navbar-brand {
+    background: linear-gradient(to left, #9896D9, #4A3CA6);
+    font-size: 2rem;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.footer-heading {
+    color: #9896D9
+}
+
+.link-secondary {
+    color: #9896D9
+}
+
+.colored-section {
+    background: rgba(228, 198, 255, 0.4);
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+}
+
+.footer {
+    margin-top: 0;
+    text-align: center;
+    width: 100%;
+}
+
+p {
+    margin-bottom: 0;
+}
+
+.footer-hr {
+    border: none;
+    height: 5px;
+    background-color: #4A3CA6;
+}
+
+.scroll-to-top-container {
+    position: relative;
+}
+
+.scroll-to-top {
+    position: absolute;
+    font-size: 24px;
+    top: -18px;
+    background-color: #9896D9;
+    color: #fff;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    text-align: center;
+    transition: all 0.3s ease-in-out;
+    transform: translateX(-50%);
+}
+
+.scroll-to-top:hover {
+    top: -22px;
+    background-color: #4A3CA6;
+}
+
+.testimony-title {
+    background: #000080;
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+.areas-title {
+    background: #000080;
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+.area-title {
+    background: rgba(255, 255, 255, 0.48);
+    padding: 20px;
+    text-align: center;
+    color: #411478;
+    margin-bottom: 20px;
+}
+
+.card-content {
+    background: linear-gradient(90deg, #3B1B75 90%, rgba(59, 27, 117, 0) 110%);
+    color: #fff;
+}
+
+.card-testimony {
+    font-family: 'Advent Pro';
+    font-size: 1.5rem;
+}
+
+.card-name {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.card-description {
+    font-size: 12px;
+}
+
+.card-link {
+    text-decoration: none;
+    color: #fff;
+}
+
+.hr-card {
+    border: none;
+    opacity: 0.3;
+    height: 2px;
+    background-color: #ffffff;
+}
